@@ -1,0 +1,9 @@
+.LabelDiv {
+    display: flex;
+    justify-content: left;
+}
+
+.Label {
+    font-size: 1.1em;
+    margin-top: 1rem;
+}

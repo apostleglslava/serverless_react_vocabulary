@@ -1,0 +1,9 @@
+.VocabularyForm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #bbbbbb;
+    height: 600px;
+    padding-left: 20%;
+    padding-right: 20%;
+}

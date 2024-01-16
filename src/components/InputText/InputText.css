@@ -1,0 +1,9 @@
+.InputTextCss {
+    display: block;
+    text-align: left;
+    vertical-align: top;
+    background-color: #ffffff;
+    width: 600px;
+    height: 200px;
+    font-size: 1.2em;
+}

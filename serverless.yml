@@ -122,6 +122,7 @@ resources:
                 - "*"
               AllowedMethods:
                 - "GET"
+                - "POST"
               AllowedOrigins:
                 - Fn::Join:
                     - ""
