@@ -1,0 +1,9 @@
+.OutputText {
+    display: inline-block;
+    margin-top: 0;
+    padding-left: 10px;
+    text-align: left;
+    background-color: #ffffff;
+    width: 600px;
+    font-size: 1.1em;
+}
